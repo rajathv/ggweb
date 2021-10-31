@@ -1612,18 +1612,19 @@ article .align-right {
     .navbar-default .navbar-collapse,
     .navbar-default .navbar-form {
         border-color: rgba(255, 255, 255, 0.58);
-          margin-top: 24px;
+          margin-top: 0px;
     }
     body {
         padding-right: 0;
         padding-left: 0;
     }
     .navbar-brand {
-        margin-top: 10px;
+        margin-top: 10px; 
+        
         border-bottom: none;
     }
     .navbar-header {
-        margin-top: 20px;
+        margin-top: 0px;
         border-bottom: none;
     }
     .navbar-nav {
